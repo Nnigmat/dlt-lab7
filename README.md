@@ -1,5 +1,3 @@
-# DLT Lab 07
+# DLT Lab 08
 
-by Nikolai Mikriukov, Igor Krasheninnikov, Muhammad Mavlyutov, Roman Solovev
-
-![](https://i.imgur.com/abeZ5gX.png)
+by Nikita Nigmatullin, Rim Rakhimov, Ilya Alonov, Roman Solovev
