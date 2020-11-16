@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.idea/
+dist/
+build/
+peer_socket.egg-info/
